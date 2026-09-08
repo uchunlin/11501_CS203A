@@ -1,4 +1,4 @@
-# 【 CS203A: Data Structures 】
+# CS203A: Data Structures
 
 Welcome to the course repository for **CS203A: Data Structures**.
 
