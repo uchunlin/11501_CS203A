@@ -9,8 +9,8 @@ Welcome to the course repository for **CS203A: Data Structures**.
 | Item                   | Information                                                   |
 | ---------------------- | ------------------------------------------------------------- |
 | **Course Title**       | Data Structures                                               |
-| **Course Code**        | CS203A (`11501`)                                              |
-| **Semester**           | 115-1                                                         |
+| **Course Code**        | CS203A                                                        |
+| **Semester**           | 115-1 (`11501`)                                               |
 | **University**         | Yuan Ze University                                            |
 | **Credits**            | 3                                                             |
 | **Instructor**         | Yu-Feng Huang                                                 |
@@ -18,7 +18,7 @@ Welcome to the course repository for **CS203A: Data Structures**.
 | **Course Time**        | Monday, 09:10–12:00                                           |
 | **Classroom**          | R1401B                                                        |
 
----
+
 
 ## Student Information
 
