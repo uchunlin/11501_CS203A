@@ -1,10 +1,10 @@
-# CS203A: Data Structures
+# 【 CS203A: Data Structures 】
 
 Welcome to the course repository for **CS203A: Data Structures**.
 
 ---
 
-## Course Information
+### 【 Course Information 】
 
 | Item                   | Information                                                   |
 | ---------------------- | ------------------------------------------------------------- |
@@ -20,13 +20,13 @@ Welcome to the course repository for **CS203A: Data Structures**.
 
 ---
 
-## Student Information
+### 【 Student Information 】
 
 * Name: 林俞均 (YU-CHUN, LIN)
 * Student ID: 1143308
 
 ---
 
-## Repository Description
+### 【 Repository Description 】
 
 This repository contains my study notes, assignments used throughout the semester for CS203A.
