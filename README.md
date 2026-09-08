@@ -33,7 +33,7 @@ This repository contains my study notes, assignments used throughout the semeste
 
 ---
 
-### Personal Website
+### 【 Personal Website 】
 
 Visit my personal course homepage:
 
