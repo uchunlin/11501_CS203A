@@ -30,3 +30,11 @@ Welcome to the course repository for **CS203A: Data Structures**.
 ### 【 Repository Description 】
 
 This repository contains my study notes, assignments used throughout the semester for CS203A.
+
+---
+
+### Personal Website
+
+Visit my personal course homepage:
+
+[My GitHub Pages](https://uchunlin.github.io/)
