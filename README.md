@@ -18,7 +18,7 @@ Welcome to the course repository for **CS203A: Data Structures**.
 | **Course Time**        | Monday, 09:10–12:00                                           |
 | **Classroom**          | R1401B                                                        |
 
-
+---
 
 ## Student Information
 
