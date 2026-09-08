@@ -29,7 +29,8 @@ Welcome to the course repository for **CS203A: Data Structures**.
 
 ### 【 Repository Description 】
 
-This repository contains my study notes, assignments used throughout the semester for CS203A.
+This repository contains my study notes, assignments,
+and learning materials for CS203A throughout the semester.
 
 ---
 
