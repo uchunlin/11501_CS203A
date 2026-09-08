@@ -1,7 +1,32 @@
 # CS203A: Data Structures
 
-Welcome to the course repository for **CS203A: Data Structures**, Semester **115-1**.
+Welcome to the course repository for **CS203A: Data Structures**.
 
-My name is **YU-CHUN LIN**, and my student ID is **1143308**.
+---
 
-This repository contains study notes, assignments used throughout the semester.
+## Course Information
+
+| Item                   | Information                                                   |
+| ---------------------- | ------------------------------------------------------------- |
+| **Course Title**       | Data Structures                                               |
+| **Course Code**        | CS203A (`11501`)                                              |
+| **Semester**           | 115-1                                                         |
+| **University**         | Yuan Ze University                                            |
+| **Credits**            | 3                                                             |
+| **Instructor**         | Yu-Feng Huang                                                 |
+| **Contact**            | [yfhuang@saturn.yzu.edu.tw](mailto:yfhuang@saturn.yzu.edu.tw) |
+| **Course Time**        | Monday, 09:10–12:00                                           |
+| **Classroom**          | R1401B                                                        |
+
+---
+
+## Student Information
+
+* Name: 林俞均 (YU-CHUN, LIN)
+* Student ID: 1143308
+
+---
+
+## Repository Description
+
+This repository contains my study notes, assignments used throughout the semester for CS203A.
